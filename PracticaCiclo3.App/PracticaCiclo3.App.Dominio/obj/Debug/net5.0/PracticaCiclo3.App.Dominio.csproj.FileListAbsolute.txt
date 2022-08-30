@@ -1,0 +1,12 @@
+D:\PracticaCiclo3\PracticaCiclo3.App\PracticaCiclo3.App.Dominio\obj\Debug\net5.0\PracticaCiclo3.App.Dominio.csprojAssemblyReference.cache
+D:\PracticaCiclo3\PracticaCiclo3.App\PracticaCiclo3.App.Dominio\obj\Debug\net5.0\PracticaCiclo3.App.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+D:\PracticaCiclo3\PracticaCiclo3.App\PracticaCiclo3.App.Dominio\obj\Debug\net5.0\PracticaCiclo3.App.Dominio.AssemblyInfoInputs.cache
+D:\PracticaCiclo3\PracticaCiclo3.App\PracticaCiclo3.App.Dominio\obj\Debug\net5.0\PracticaCiclo3.App.Dominio.AssemblyInfo.cs
+D:\PracticaCiclo3\PracticaCiclo3.App\PracticaCiclo3.App.Dominio\obj\Debug\net5.0\PracticaCiclo3.App.Dominio.csproj.CoreCompileInputs.cache
+D:\PracticaCiclo3\PracticaCiclo3.App\PracticaCiclo3.App.Dominio\bin\Debug\net5.0\PracticaCiclo3.App.Dominio.deps.json
+D:\PracticaCiclo3\PracticaCiclo3.App\PracticaCiclo3.App.Dominio\bin\Debug\net5.0\PracticaCiclo3.App.Dominio.dll
+D:\PracticaCiclo3\PracticaCiclo3.App\PracticaCiclo3.App.Dominio\bin\Debug\net5.0\ref\PracticaCiclo3.App.Dominio.dll
+D:\PracticaCiclo3\PracticaCiclo3.App\PracticaCiclo3.App.Dominio\bin\Debug\net5.0\PracticaCiclo3.App.Dominio.pdb
+D:\PracticaCiclo3\PracticaCiclo3.App\PracticaCiclo3.App.Dominio\obj\Debug\net5.0\PracticaCiclo3.App.Dominio.dll
+D:\PracticaCiclo3\PracticaCiclo3.App\PracticaCiclo3.App.Dominio\obj\Debug\net5.0\ref\PracticaCiclo3.App.Dominio.dll
+D:\PracticaCiclo3\PracticaCiclo3.App\PracticaCiclo3.App.Dominio\obj\Debug\net5.0\PracticaCiclo3.App.Dominio.pdb

@@ -1,0 +1,16 @@
+D:\PracticaCiclo3\PracticaCiclo3.App\PracticaCiclo3.App.Consola\bin\Debug\net5.0\PracticaCiclo3.App.Consola.exe
+D:\PracticaCiclo3\PracticaCiclo3.App\PracticaCiclo3.App.Consola\bin\Debug\net5.0\PracticaCiclo3.App.Consola.deps.json
+D:\PracticaCiclo3\PracticaCiclo3.App\PracticaCiclo3.App.Consola\bin\Debug\net5.0\PracticaCiclo3.App.Consola.runtimeconfig.json
+D:\PracticaCiclo3\PracticaCiclo3.App\PracticaCiclo3.App.Consola\bin\Debug\net5.0\PracticaCiclo3.App.Consola.runtimeconfig.dev.json
+D:\PracticaCiclo3\PracticaCiclo3.App\PracticaCiclo3.App.Consola\bin\Debug\net5.0\PracticaCiclo3.App.Consola.dll
+D:\PracticaCiclo3\PracticaCiclo3.App\PracticaCiclo3.App.Consola\bin\Debug\net5.0\ref\PracticaCiclo3.App.Consola.dll
+D:\PracticaCiclo3\PracticaCiclo3.App\PracticaCiclo3.App.Consola\bin\Debug\net5.0\PracticaCiclo3.App.Consola.pdb
+D:\PracticaCiclo3\PracticaCiclo3.App\PracticaCiclo3.App.Consola\obj\Debug\net5.0\PracticaCiclo3.App.Consola.csprojAssemblyReference.cache
+D:\PracticaCiclo3\PracticaCiclo3.App\PracticaCiclo3.App.Consola\obj\Debug\net5.0\PracticaCiclo3.App.Consola.GeneratedMSBuildEditorConfig.editorconfig
+D:\PracticaCiclo3\PracticaCiclo3.App\PracticaCiclo3.App.Consola\obj\Debug\net5.0\PracticaCiclo3.App.Consola.AssemblyInfoInputs.cache
+D:\PracticaCiclo3\PracticaCiclo3.App\PracticaCiclo3.App.Consola\obj\Debug\net5.0\PracticaCiclo3.App.Consola.AssemblyInfo.cs
+D:\PracticaCiclo3\PracticaCiclo3.App\PracticaCiclo3.App.Consola\obj\Debug\net5.0\PracticaCiclo3.App.Consola.csproj.CoreCompileInputs.cache
+D:\PracticaCiclo3\PracticaCiclo3.App\PracticaCiclo3.App.Consola\obj\Debug\net5.0\PracticaCiclo3.App.Consola.dll
+D:\PracticaCiclo3\PracticaCiclo3.App\PracticaCiclo3.App.Consola\obj\Debug\net5.0\ref\PracticaCiclo3.App.Consola.dll
+D:\PracticaCiclo3\PracticaCiclo3.App\PracticaCiclo3.App.Consola\obj\Debug\net5.0\PracticaCiclo3.App.Consola.pdb
+D:\PracticaCiclo3\PracticaCiclo3.App\PracticaCiclo3.App.Consola\obj\Debug\net5.0\PracticaCiclo3.App.Consola.genruntimeconfig.cache
